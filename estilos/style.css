@@ -1,0 +1,139 @@
+body{
+    background-color:rgb(101, 130, 194);
+    display: block;
+    justify-content: center;
+}
+
+.logo{
+    position: relative;
+    top: -50px;
+    width: 100px;
+    border: 5px solid;
+    border-radius: 50%;
+}
+
+header{
+    background-color: rgb(101, 130, 194);
+    border: black 5px solid;
+    width: 1338px;
+    height: 150px;
+    display: block;
+    justify-content: center;
+    position: relative;
+}
+
+nav{
+    background-color: rgb(101, 130, 194);
+    border: black 5px solid;
+    width: 1338px;
+    justify-content: center;
+    text-align: center;
+    padding: -1%;
+    font-size: 25px;
+    display: flex;
+}
+
+nav a{
+    padding-left: 5%;
+}
+
+main{
+    background-color: rgb(101, 130, 194);
+    border: black 5px solid;
+    width: 1338px;
+    height: 1300px;
+    display: block;
+}
+
+.cont{
+    margin: 10%;
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    display: flex;
+}
+
+.cont2{
+    margin: 10%;
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    display: flex;
+}
+
+.cont3{
+    margin: 10%;
+    border: 1px solid black;
+    width: 1000px;
+    height: 500px;
+    display: flex;
+}
+
+.cont4{
+    margin: 10%;
+    border: 1px solid black;
+    width: 1000px;
+    height: 500px;
+    display: flex;
+}
+.tex2{
+    font-size: 45px;
+}
+footer{
+    background-color: rgb(101, 130, 194);
+    border: black 5px solid;
+    width: 1338px;
+    height: 200px;
+    display:block;
+}
+
+.nombres{
+    font-size: 160%;
+    position: absolute;
+    margin-top: -7%;
+    margin-left: 1%;
+}
+.logofinal{
+    border-radius: 50%;
+    width: 9%;
+    position: relative;
+    right: -90%;
+    margin-top: 3%;
+}
+
+.texta{
+    font-size: 34px;
+}
+
+.mascota{
+    text-align: center;
+}
+
+.cuen{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 40%;
+    justify-content: left;
+    font-size: 180%;
+}
+
+.dat{
+    margin-top: 10%;
+    margin-left: 37%;
+    margin-bottom: 15%;
+    border-radius: 5px;
+    width: 500px;
+    height: 264px;
+    font-size: 300%;
+}
+
+.tit{
+    padding: 1%;
+    font-size: 60px;
+    text-align: center;
+}
+.tac{
+    margin-top: -10px;
+    font-size: 50px;
+    margin-left: 2%;
+}
